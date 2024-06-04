@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+6623 - 6623okvip.com - nhà cái uy tín hàng đầu Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`6623 <https://6623okvip.com/>`_ là địa chỉ đáng tin cậy cho người yêu thích cá cược trực tuyến, nhà cái luôn mang lại trải nghiệm chất lượng và đa dạng trong các trò chơi. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Website: `https://6623okvip.com/ <https://6623okvip.com/>`_
 
-.. note::
+Email: info@6623okvip.com
 
-   This project is under active development.
+Địa Chỉ: 26 Lý Thường Kiệt, Phường 4, Trà Vinh, Việt Nam
 
-Contents
---------
+SĐT: 0946548605
 
-.. toctree::
-
-   usage
-   api
+#nhacai6623 #6623 #trangchu6623 #6623casino 
